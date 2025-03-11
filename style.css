@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    /* I need a way of setting the width of the grid */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pixel {
+    background-color: pink;
+    /* width: 15px;
+    height: 15px; */
+    /* border: solid 0.5px; */
+}
