@@ -1,4 +1,5 @@
 const container = document.querySelector('.container');
+
 // If you wanted a canvas that was 960
 let canvasSize = '720px';
 
