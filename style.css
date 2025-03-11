@@ -1,5 +1,12 @@
 body {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    align-self: center;
+    margin-bottom: 8px;
 }
 
 .canvas-body {
